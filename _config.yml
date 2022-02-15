@@ -9,8 +9,8 @@ name: Dr. Qazi Mazhar ul Haq
 #User specific content
 #Links that will appear in the navbar
 primarylinks:
- - title: Blog
-   url: http://technologination.blogspot.com/
+#  - title: Blog
+#    url: http://technologination.blogspot.com/
  - title: GitHub
    url: https://github.com/Dr-qazi
  - title: LinkedIn
@@ -26,35 +26,16 @@ primarylinks:
 
 #Any buzzword skills you want to include
 skills:
- - Android Studio
- - AVR Studio
- - Bascom AVR
- - C/C++
- - C#
- - CV AVR
- - Java
+ 
  - MATLAB
  - OpenCV
  - Python
  - PyTorch
  - Tensorflow
- - Verilog
- - Visual Basic
-
-skills2:
- - Arduino
- - Microcontroller
- - NVIDIA Jetson
- - PLC
- - Raspberry Pi
  
-skills3:
- - Corel Draw
- - Eagle PCB
- - Photoshop
- - Protel PCB
- - Proteus
- - Solidworks
+
+
+
 
 #Blogfeed is optional - including this will add JS to call the feed and populate blog list
 blogfeed: Previous Research
