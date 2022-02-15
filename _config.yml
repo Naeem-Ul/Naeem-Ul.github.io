@@ -50,7 +50,7 @@ blogfeed: Previous Research
 
 #Education is required
 education:
- - level: Doctor of Philosophy (Ph.D.)
+ - level: (Ph.D.)
    date: 2021
    dept: Electronic and Computer Engineering
    subject: (Computer Vision and Artificial Intelligence)
@@ -60,7 +60,7 @@ education:
    dept: Electrical Engineering
    subject: (Robotics and Computer Vision)
    school: National University of Sciences and Technology Islamabad, Pakistan
- - level: Bachelor of Engineering 
+ - level: (B.E/BEng) 
    date: 2014
    dept: Telecommunication Engineering
    subject: (Signal and Image Pocessing)
@@ -96,9 +96,8 @@ stackoverflow: Resume
 
 intro: |
   <p style="font-size:15px;">
-  Currently I'm a Postdoctoral Researcher at National Taipei University of Technology (NTUT), Taiwan.
-  My research interests are in the areas of robotics, computer vision, image processing, and AI. <br/><br/>
-  Qazi Mazhar ul Haq is a Postdoctoral Fellow in Departmenet of Electrical Enigneering at National Taipei University of Technology (NTUT), Taiwan. He holds a PhD in Electronics and Computer Engineering from
+  
+  Dr. Qazi Mazhar ul Haq is a Postdoctoral Fellow in Departmenet of Electrical Enigneering at National Taipei University of Technology (NTUT), Taiwan. He holds a PhD in Electronics and Computer Engineering from
 the National Taiwan University of Science and Technology. His research interests include object detection, incremental learning, anomaly detection, image processing, deep learning,
 as well as the 3D object detection. He is
 currently working on Autonomous robots for automatic delivery in hopsitals. Qazi will be conducting autonomous tri-cycle upon completion
