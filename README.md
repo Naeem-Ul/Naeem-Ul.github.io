@@ -1,4 +1,4 @@
-You can checkout the page generated for this repo here: https://wahyurahmaniar.github.io
+You can checkout the page generated for this repo here: https://Dr-qazi.github.io
 
 ## Making your own CV
 
