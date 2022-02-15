@@ -51,20 +51,20 @@ blogfeed: Previous Research
 #Education is required
 education:
  - level: Doctor of Philosophy (Ph.D.)
-   date: 2020
-   dept: Electrical Engineering
+   date: 2021
+   dept: Electronic and Computer Engineering
    subject: (Computer Vision and Artificial Intelligence)
-   school: National Central University
- - level: (M.S. fastrack to Ph.D.)
-   date: 2014
+   school: National Taiwan University of Science and Technology
+ - level: (MS)
+   date: 2016
    dept: Electrical Engineering
    subject: (Robotics and Computer Vision)
-   school: National Central University
- - level: Bachelor of Science / Sarjana Sains (S.Si.)
-   date: 2009
-   dept: Electronics and Instrumentation
-   subject: (Robotics and Control)
-   school: Universitas Gadjah Mada
+   school: National University of Sciences and Technology Islamabad, Pakistan
+ - level: Bachelor of Engineering 
+   date: 2014
+   dept: ETelecommunication Engineering
+   subject: (Signal and Image Pocessing)
+   school: Universitay of Engineeirng and Technology Peshawar
 
 #This section is optional - embeds slideshows from speakerdeck
 # to get the speakerdeck ID copy the embed code and look for the data-it attribute
