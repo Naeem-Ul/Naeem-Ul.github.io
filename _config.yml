@@ -62,25 +62,25 @@ education:
    school: National University of Sciences and Technology Islamabad, Pakistan
  - level: Bachelor of Engineering 
    date: 2014
-   dept: ETelecommunication Engineering
+   dept: Telecommunication Engineering
    subject: (Signal and Image Pocessing)
    school: Universitay of Engineeirng and Technology Peshawar
 
 #This section is optional - embeds slideshows from speakerdeck
 # to get the speakerdeck ID copy the embed code and look for the data-it attribute
-speakerdeck:
-   talks:
-    - title: Menggapai Mimpi di Kancah Internasional
-      host: Universitas Internasional Semen Indonesia (UISI)
-      date: July 4, 2020
-   talks2:
-    - title: Artificial Intelligence Applications in Real-Life
-      host: Sekolah Tinggi Teknologi Bandung (STTB)
-      date: July 10, 2021
-   talks3:
-    - title: When Remote Sensing Meets Artificial Intelligence 
-      host: Universitas Negeri Makasar (UNM)
-      date: December 4, 2021
+# speakerdeck:
+#    talks:
+#     - title: Menggapai Mimpi di Kancah Internasional
+#       host: Universitas Internasional Semen Indonesia (UISI)
+#       date: July 4, 2020
+#    talks2:
+#     - title: Artificial Intelligence Applications in Real-Life
+#       host: Sekolah Tinggi Teknologi Bandung (STTB)
+#       date: July 10, 2021
+#    talks3:
+#     - title: When Remote Sensing Meets Artificial Intelligence 
+#       host: Universitas Negeri Makasar (UNM)
+#       date: December 4, 2021
 
 #List of interesting Github repo/projects to include - optional
 #github:
@@ -96,56 +96,28 @@ stackoverflow: Resume
 
 intro: |
   <p style="font-size:15px;">
-  Currently I'm a Postdoctoral Researcher at National Taipei University of Technology (NTUT), Taiwan and teach artificial intelligence (AI) online class at Sekolah Tinggi Teknologi Bandung (STTB). I received the B.S. degree in Electronics and Instrumentation from Universitas Gadjah Mada (UGM), Yogyakarta, Indonesia, in 2009 and Ph.D. degree in Electrical Engineering from National Central University (NCU), Taiwan, in 2020. 
+  Currently I'm a Postdoctoral Researcher at National Taipei University of Technology (NTUT), Taiwan.
   My research interests are in the areas of robotics, computer vision, image processing, and AI. <br/><br/>
   
   The research I conducted in the field of computer vision and image processing, including AI. I used C++ or Python programming on Windows or Linux operating systems. Overall, I have at least 10 years experience in programming. And for the AI field, I have studied it since I took a Ph.D. degree until now for about 7 years.
   For intelligent systems, I focus more on developing algorithms or frameworks that can run systems in the real-time in the actual environment. Besides, I also understand well enough the theory and mathematics for these systems, including machine learning and deep learning. One of my interests in AI research is that I want to create my own network or method. 
   I have also been a reviewer in several journals, such as Circuit World, Sensor Review, Journal of Robotics and Control, Journal of Electronic Imaging, Sensors (MDPI), BDCC (MDPI), and Scientific Reports (Nature). <br/><br/>
   
-  My friends call me Wahyu, Wayau, Ayu, or Ayuchan.<br/><br/>
+  My friends call me Qazi, or Mazhar,<br/><br/>
   </p>
-  <p style="color:blue "align="right">~ayuchan~</p>
+  <p style="color:blue "align="right">~Qazi~</p>
 
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 additionalinfo: |
    <p style="font-size:14px;"><strong>Year</strong>: November 2021 - now <br/>
    <strong>Office</strong>: National Taipei University of Technology (NTUT), Taiwan<br/>
    <strong>Position</strong>: Postdoctoral Researcher <br/>
-   <strong>Subject</strong>: Programming, computer vision, image processing, artificial intelligence <br/>
+   <strong>Subject</strong>: computer vision, image processing, artificial intelligence <br/>
    </p>
 
-   <p style="font-size:14px;"><strong>Year</strong>: December 2018 - October 2021 <br/>
-   <strong>Office</strong>: Issa Technology, Taoyuan, Taiwan <br/>
-   <strong>Position</strong>: Software Engineer <br/>
-   <strong>Subject</strong>: Programming, computer vision, image processing, artificial intelligence <br/>
+   <p style="font-size:14px;"><strong>Year</strong>: Jan 2019 - Dec 2020 <br/>
+   <strong>Office</strong>: Industrial Technology Research Institute, Hsinchu, Taiwan <br/>
+   <strong>Position</strong>: Research Associate <br/>
+   <strong>Subject</strong>: Object detection for delf-driving cars <br/>
    </p>
  
-   <p style="font-size:14px;"><strong>Year</strong>: June 2017 - August 2017 <br/>
-   <strong>Office</strong>: Ubiik Inc, Hsinchu, Taiwan <br/>
-   <strong>Position</strong>: Internship, Software Engineer <br/>
-   <strong>Subject</strong>: Program and embedded system for Smart Power Meter <br/>
-   </p>
-   
-   <p style="font-size:14px;"><strong>Year</strong>: May 2009 - August 2013 <br/>
-   <strong>Position</strong>: Freelancer <br/>
-   <strong>Subject</strong>: Programming and electronics<br/>
-   </p>
-   
-   <p style="font-size:14px;"><strong>Year</strong>: November 2010 - October 2011 <br/>
-   <strong>Office</strong>: Institut Teknologi Sepuluh Nopember (ITS), Surabaya, Indonesia <br/>
-   <strong>Position</strong>: Research Assistant <br/>
-   <strong>Subject</strong>: Programming and electronics <br/>
-   </p>
- 
-   <p style="font-size:14px;"><strong>Year</strong>: May 2010 – October 2010 <br/>
-   <strong>Office</strong>: Universitas Indonesia (UI), Depok, Indonesia <br/>
-   <strong>Position</strong>: Research Assistant <br/>
-   <strong>Subject</strong>: Programming and electronics <br/>
-   </p>
-  
-   <p style="font-size:14px;"><strong>Year</strong>: August 2009 - January 2010 <br/>
-   <strong>Office</strong>: Universitas Gadjah Mada (UGM), Yogyakarta, Indonesia <br/>
-   <strong>Position</strong>: Laboratory Assistant <br/>
-   <strong>Subject</strong>: Teaching class and experiment in electronics and programming <br/>
-   </p>
