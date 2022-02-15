@@ -1,7 +1,7 @@
 # Site settings
-title: Wahyu Rahmaniar 
-#twitter_username: wahyurahmaniar
-name: Wahyu Rahmaniar
+title: Dr. Qazi Mazhar ul Haq
+#twitter_username: QaziMazhar_
+name: Dr. Qazi Mazhar ul Haq
 
 # Build settings
 #markdown: kramdown
@@ -12,11 +12,11 @@ primarylinks:
  - title: Blog
    url: http://technologination.blogspot.com/
  - title: GitHub
-   url: https://github.com/wahyurahmaniar  
+   url: https://github.com/Dr-qazi
  - title: LinkedIn
-   url: https://www.linkedin.com/in/wahyu-rahmaniar-22041987/
+   url: https://www.linkedin.com/in/qazi-mazhar/
  - title: Facebook
-   url: https://www.facebook.com/wahyu.rahmaniar
+   url: https://www.facebook.com/qazi.mazhar
  - title: Twitter
    url: https://twitter.com/WahyuRahmaniar
  - title: Google Scholar
