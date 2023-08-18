@@ -47,15 +47,15 @@ additionalinfo: |
    <strong>Position</strong>: Assistant Professor <br/>
    <strong>Subject</strong>: During this position i am teaching subject Calculus-I and Introduction to Computer Science<br/>
    </p>
-   <p style="font-size:14px;"><strong>Year</strong>: November 2021 - now <br/>
+   <p style="font-size:14px;"><strong>Year</strong>: September 2022- July 2023 <br/>
    <strong>Office</strong>: National University of Sciences and Technology, Pakistan<br/>
    <strong>Position</strong>: Assistant Professor <br/>
    <strong>Subject</strong>:  During this position i was teaching computer software engineering subjects such as Data Structure and Analaysis, Design and Analysis of Algorithms<br/>
    </p>
-   <p style="font-size:14px;"><strong>Year</strong>: November 2021 - now <br/>
+   <p style="font-size:14px;"><strong>Year</strong>: Dec 2021 - Aug 2022 <br/>
    <strong>Office</strong>: National Taipei University of Technology (NTUT), Taiwan<br/>
    <strong>Position</strong>: Postdoctoral Researcher <br/>
-   <strong>Subject</strong>: computer vision, image processing, artificial intelligence <br/>
+   <strong>Subject</strong>: During this position i was mainly involved in writing manuscript of high impact journals. Research areas include Anamoly detection, Autonomous Vehicles, Person Re-identification.<br/>
    </p>
 
 # roles:
@@ -85,13 +85,18 @@ education:
  - level: (MS)
    date: 2016
    dept: Electrical Engineering
-   subject: (Robotics and Computer Vision)
+   subject: (Digital Image Processing and Computer Vision)
    school: National University of Sciences and Technology Islamabad, Pakistan
  - level: (B.E/BEng) 
    date: 2014
    dept: Telecommunication Engineering
    subject: (Signal and Image Pocessing)
    school: Universitay of Engineeirng and Technology Peshawar
+  - level: (B.E/BEng) (Quit)
+   date: 2009-2010
+   dept: Electrical (Telecommunication) Engineering
+   subject: (Signal and Image Pocessing)
+   school: Kohat University of Science and Technology.
 
 #This section is optional - embeds slideshows from speakerdeck
 # to get the speakerdeck ID copy the embed code and look for the data-it attribute
