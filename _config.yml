@@ -41,22 +41,39 @@ skills:
 blogfeed: Previous Research
 
 #Work experience is required
-roles:
-- title: Assistant Professor
-  start: Aug 2023
-  end: July 2024
-  employer: Yuan Ze University
-  description: During this position i am teaching subject Calculus-I and Introduction to Computer Science
-- title: Assistant Professor
-  start: Sep 2022
-  end: July 2022
-  employer: National University of Sciences and Technology, Pakistan
-  description: During this position i was teaching computer software engineering subjects such as Data Structure and Analaysis, Design and Analysis of Algorithms
-- title: Postdoctoral Researcher
-  start: Jan 2022
-  end: Aug 2022
-  employer: National Taipei University of Technology, Taiwan
-  description: During this position i was mainly involved in writing manuscript of high impact journals. Research areas include Anamoly detection, Autonomous Vehicles, Person Re-identification.
+additionalinfo: |
+   <p style="font-size:14px;"><strong>Year</strong>: Aug 2023 - July 2024 <br/>
+   <strong>Office</strong>: Yuan Ze University, Taiwan<br/>
+   <strong>Position</strong>: Assistant Professor <br/>
+   <strong>Subject</strong>: During this position i am teaching subject Calculus-I and Introduction to Computer Science<br/>
+   </p>
+   <p style="font-size:14px;"><strong>Year</strong>: November 2021 - now <br/>
+   <strong>Office</strong>: National University of Sciences and Technology, Pakistan<br/>
+   <strong>Position</strong>: Assistant Professor <br/>
+   <strong>Subject</strong>:  During this position i was teaching computer software engineering subjects such as Data Structure and Analaysis, Design and Analysis of Algorithms<br/>
+   </p>
+   <p style="font-size:14px;"><strong>Year</strong>: November 2021 - now <br/>
+   <strong>Office</strong>: National Taipei University of Technology (NTUT), Taiwan<br/>
+   <strong>Position</strong>: Postdoctoral Researcher <br/>
+   <strong>Subject</strong>: computer vision, image processing, artificial intelligence <br/>
+   </p>
+
+# roles:
+# - title: Assistant Professor
+#   start: Aug 2023
+#   end: July 2024
+#   employer: Yuan Ze University, Taiwan
+#   description: During this position i am teaching subject Calculus-I and Introduction to Computer Science
+# - title: Assistant Professor
+#   start: Sep 2022
+#   end: July 2022
+#   employer: National University of Sciences and Technology, Pakistan
+#   description: During this position i was teaching computer software engineering subjects such as Data Structure and Analaysis, Design and Analysis of Algorithms
+# - title: Postdoctoral Researcher
+#   start: Jan 2022
+#   end: Aug 2022
+#   employer: National Taipei University of Technology, Taiwan
+#   description: During this position i was mainly involved in writing manuscript of high impact journals. Research areas include Anamoly detection, Autonomous Vehicles, Person Re-identification.
 
 #Education is required
 education:
@@ -113,16 +130,16 @@ intro: |
   <p style="color:blue "align="right">~Qazi~</p>
 
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
-additionalinfo: |
-   <p style="font-size:14px;"><strong>Year</strong>: November 2021 - now <br/>
-   <strong>Office</strong>: National Taipei University of Technology (NTUT), Taiwan<br/>
-   <strong>Position</strong>: Postdoctoral Researcher <br/>
-   <strong>Subject</strong>: computer vision, image processing, artificial intelligence <br/>
-   </p>
+# additionalinfo: |
+#    <p style="font-size:14px;"><strong>Year</strong>: November 2021 - now <br/>
+#    <strong>Office</strong>: National Taipei University of Technology (NTUT), Taiwan<br/>
+#    <strong>Position</strong>: Postdoctoral Researcher <br/>
+#    <strong>Subject</strong>: computer vision, image processing, artificial intelligence <br/>
+#    </p>
 
-   <p style="font-size:14px;"><strong>Year</strong>: Jan 2019 - Dec 2020 <br/>
-   <strong>Office</strong>: Industrial Technology Research Institute, Hsinchu, Taiwan <br/>
-   <strong>Position</strong>: Research Associate <br/>
-   <strong>Subject</strong>: Object detection for delf-driving cars <br/>
-   </p>
+#    <p style="font-size:14px;"><strong>Year</strong>: Jan 2019 - Dec 2020 <br/>
+#    <strong>Office</strong>: Industrial Technology Research Institute, Hsinchu, Taiwan <br/>
+#    <strong>Position</strong>: Research Associate <br/>
+#    <strong>Subject</strong>: Object detection for delf-driving cars <br/>
+#    </p>
  
